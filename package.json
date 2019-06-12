@@ -1,0 +1,19 @@
+{
+  "name": "village-time",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "rmdir build && mkdir build && rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  },
+  "dependencies": {
+    "rollup": "^1.13.1",
+    "rollup-plugin-json": "^4.0.0"
+  }
+}

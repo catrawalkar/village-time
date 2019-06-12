@@ -1,0 +1,64 @@
+[
+    {
+        "name": "Mudsingi",
+        "variations": {
+            "name": [
+              "Mudshingi", "Gadmudshingi"
+            ]
+          }
+    },
+    {
+      "name": "Khupire"
+    },
+    {
+      "name": "Shahuwadi"
+    },
+    {
+      "name":"Khutalwadi"
+    },
+    {
+      "name": "Gorambe"
+    },
+    {
+      "name": "Kenavade",
+      "variations": {
+        "name": [
+          "Kenawde" 
+        ]
+      }
+    },
+    {
+      "name": "Ekondi"
+    },
+    {
+      "name": "Chandgad"
+    },
+    {
+      "name": "Tudiye"
+    },
+    {
+      "name": "Kodali"
+    },
+    {
+      "name": "Sonyachi shiroli"
+    },
+    {
+      "name": "Olavan"
+    },
+    {
+      "name": "Hebbal Jaldyal",
+      "variations": {
+        "name": [
+          "Hebbal-Jaldyal" 
+        ]
+      }
+    },
+    {
+      "name": "Inchanal",
+      "variations": {
+        "name": [
+          "Inchnal"
+        ]
+      }
+    }
+]
